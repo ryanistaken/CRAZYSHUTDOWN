@@ -1,2 +1,2 @@
 @echo off
-shutdown.exe -s -t 00 -c "Your Computer Has Been Fucked"
+shutdown.exe -s -t 05 -c "Go Outside Now, Silly Boy"
